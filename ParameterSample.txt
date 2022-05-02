@@ -1,0 +1,5 @@
+﻿             
+myaccount_address = "0xeF24E50b4E1a05d22480851a73a383d691D2c4f5";
+destination_account_address = "0xec174fEFDd67b2a4FF3D6c592FEcFBACDdFA0146";
+var wallet_account = new Account("065a29f39cbcbbf278efaad8282b462c48ec928672fcec493228ed3973005735", 4); //Private Key + ChainId
+contract_address = "0xd2260bb84E903f5FF227E377EE614D80d9B902CC"; //remote contract address
