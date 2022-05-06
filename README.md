@@ -1,6 +1,14 @@
 # NFT-Cert-Issue-Check
 
-You'll get it after watching this video (In Cantonese)
+This is POC project of NFT about issuing a certificate and then verify the certificate in Etherscan in order to check this certicate is genuine.
 
-[![VIDEO](https://img.youtube.com/vi/q0sMjmz69fQ/0.jpg)](http://www.youtube.com/watch?v=q0sMjmz69fQ)
+You'll know how it works after watching this video.
+
+[![VIDEO](](https://user-images.githubusercontent.com/10330810/167060971-830b76bc-bf0f-4f07-932b-c9420f7e5684.mp4)
+
+
+
+
+
+
 
