@@ -85,7 +85,5 @@ This project is licensed under the MIT License.
 - [Infura](https://infura.io/)
 
 
-- Summary of changes:
-•	Describes solution purpose, features, technologies, and structure.
-•	Provides setup, configuration, and usage instructions.
-•	Includes example code and licensing.
+## Video Demo
+[![NFT-Cert-Issue-Check Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
