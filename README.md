@@ -86,4 +86,4 @@ This project is licensed under the MIT License.
 
 
 ## Video Demo
-[![NFT-Cert-Issue-Check Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[Watch the video](https://user-images.githubusercontent.com/10330810/167060971-830b76bc-bf0f-4f07-932b-c9420f7e5684.mp4)
